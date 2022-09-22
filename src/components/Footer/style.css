@@ -1,0 +1,11 @@
+.rodape{
+    border-top: 0.4px solid #fff2e7;
+    margin-bottom: 48px;
+
+  }
+  .rodape-logo{
+   display: flex;
+   justify-content: center;
+    color: blanchedalmond;
+   
+  }
